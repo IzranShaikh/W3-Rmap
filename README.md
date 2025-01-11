@@ -1,5 +1,8 @@
 # Roadmap -
 
+> [!WARNING]
+> Never send Smart Contracts or any Client provided-codes to online LLMs
+
 #### Stage I
 - WEB Evolution
 - Decentralization Concept
