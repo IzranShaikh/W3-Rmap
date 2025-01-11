@@ -1,4 +1,4 @@
-# ROADMAP
+# ROADMAP 🚀
 
 #### Stage I : Introduction
 - WEB Evolution
@@ -6,8 +6,8 @@
     - Need
     - Implementation
     - Key Difference
-- Blockchain concept
-- Single Blocks
+- Blockchain Concept
+- Single Block
 - Mining Difficulty
     - Proof of Work
     - Proof of Stake
@@ -81,7 +81,7 @@ for(let i=1; i<ch.length; i++){
 
 <hr />
 
-#### Stage II : Buissness Grasp
+#### Stage II : Our Buissness
 - Smart Contracts
     - Concept
     - Functioning
