@@ -1,6 +1,6 @@
-# Roadmap -
+# ROADMAP
 
-#### Stage I
+#### Stage I : Introduction
 - WEB Evolution
 - Decentralization Concept
     - Need
@@ -81,23 +81,30 @@ for(let i=1; i<ch.length; i++){
 
 <hr />
 
-#### Stage II
+#### Stage II : Buissness Grasp
 - Smart Contracts
     - Concept
     - Functioning
     - Types
     - Blockchains using them, primarily Ethereum's implementations
     - Languages
-- Solidity
+- Solidity<a href="https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#simple-smart-contract">🔗</a>
+- Study Common Vulnerabilities In-Depth
+    - Overflow/Underflow
+    - Reentrancy
+    - Broken Access Control
+    - Uninitialized Variables and Improper Variable Scoping
+    - DoS & Gas Exhaustion
+    - Oracle Manipulation
+    - Buissness Logic Flaws, etc
 
-> [!CAUTION]
-> Never send Smart Contracts or any Client provided Code to online LLMs
+
 <details>
   <summary>Audit this sample Smart Contract</summary>
 
 ```javascript
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.X;
 
 contract SimpleBank {
     mapping(address => uint256) public balances;
@@ -118,5 +125,23 @@ contract SimpleBank {
 ```
 </details>
 
+> [!CAUTION]
+> Never send Smart Contracts or any Client provided Code to online LLMs
+
+<hr />
+
+#### Stage III : Genesis Testing
+- <a href="https://metamask.io/">MetaMask</a> Setup
+- Testing Environments
+    - LocalNet
+    - TestNet
+    - MainNet
+-  Foundry<a href="https://book.getfoundry.sh/">🔗</a>
+-  HardHat Configuration<a href="https://github.com/NomicFoundation/hardhat">🔗</a>
+-  Environment Setup
+- The Ethernaut<a href="https://ethernaut.openzeppelin.com/">🔗</a>
+- Video References
+    - https://www.youtube.com/watch?v=fNMfMxGxeag
+    - https://www.youtube.com/watch?v=UWy-CcnulCA&t=207s
 
 
