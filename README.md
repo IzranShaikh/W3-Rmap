@@ -93,7 +93,7 @@ for(let i=1; i<ch.length; i++){
 <details>
   <summary>Audit this sample Smart Contract</summary>
   
-> [!CAUTION]
+> [!WARNING]
 > Never send Smart Contracts or any Client provided-codes to online LLMs
 
 ```javascript
