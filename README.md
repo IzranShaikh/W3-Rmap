@@ -1,8 +1,5 @@
 # Roadmap -
 
-> [!WARNING]
-> Never send Smart Contracts or any Client provided-codes to online LLMs
-
 #### Stage I
 - WEB Evolution
 - Decentralization Concept
@@ -93,11 +90,10 @@ for(let i=1; i<ch.length; i++){
     - Languages
 - Solidity
 
+> [!CAUTION]
+> Never send Smart Contracts or any Client provided Code to online LLMs
 <details>
   <summary>Audit this sample Smart Contract</summary>
-  
-> [!WARNING]
-> Never send Smart Contracts or any Client provided-codes to online LLMs
 
 ```javascript
 // SPDX-License-Identifier: MIT
