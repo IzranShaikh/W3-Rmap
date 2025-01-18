@@ -87,7 +87,6 @@ for(let i=1; i<ch.length; i++){
     - Functioning
     - Types
     - Blockchains using them, primarily Ethereum's implementations
-    - Languages
 - Solidity<a href="https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#simple-smart-contract">🔗</a>
 - Study Common Vulnerabilities In-Depth
     - Overflow/Underflow
@@ -143,5 +142,6 @@ contract SimpleBank {
 - Video References
     - https://www.youtube.com/watch?v=fNMfMxGxeag
     - https://www.youtube.com/watch?v=UWy-CcnulCA&t=207s
+    - https://youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu&si=d0SW8i_swZq16qHF
 
 
